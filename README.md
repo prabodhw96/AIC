@@ -14,7 +14,7 @@ The development of counter-terrorism technologies must be seen in the context of
 As for the future, even if pro-ISIS support moves onto the dark net where open access is not possible, or if a new entity beyond ISIS emerges, our results should still be relevant. The mechanism we’ve identified and theory we’ve developed appear to capture a basic process of human online behavior. Going forward, it can be used to help describe not only pro-ISIS online activity, but also that of any future extremist group or organization.
 ### To-do List (We're working on it!)
 - [x] Data Exploration and Visualization
-- [x] Network Graph
+- [x] Social Network Graph
 - [ ] Attack Detection using Generalized Regression Neural Network
 - [ ] Attack Prediction using Time Series Neural Network
 ### Description of Files
