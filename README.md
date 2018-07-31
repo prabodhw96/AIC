@@ -1,4 +1,4 @@
-# Accenture Innovation Challenge 2018
+﻿# Accenture Innovation Challenge 2018
 ## Pro-ISIS fanboys network analysis and attack detection through Twitter data
 ### Challenge
 Terrorism becomes more severe these days, especially the attacks sponsored by Islamic State of Iraq and Syria (ISIS) or Daesh. They are experts of using social network for propaganda and recruitment, thus predicting their activities through big social network data will help to predict and avoid more serious attacks.
@@ -26,7 +26,7 @@ As for the future, even if pro-ISIS support moves onto the dark net where open a
 <br>
 [Average followers per username associated with ISIS on Twitter](https://public.tableau.com/profile/prabodh.wankhede#!/vizhome/ISISUsernameFollowers/Sheet1)
 ### Future Scope
-We look forward to extend methodologies used in this project to address the problem of henious crime of premeditated extrajudicial killings by group (mob lynching) in India.
+We look forward to extend methodologies used in this project to address the problem of heinous crime of premeditated extrajudicial killings by group (mob lynching) in India.
 ### Team Members
 * Rohit Singh
 * Prabodh Wankhede
