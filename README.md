@@ -21,6 +21,9 @@ As for the future, even if pro-ISIS support moves onto the dark net where open a
 * ``ISIS.pynb`` shows time series analysis of tweets.<br>
 * ``ISIS in Social Media.pynb`` depicts the top 10 contenders in the dataset, related tweets over time and relation between tweets and attacks for April 2016 as an example.<br>
 * ``Social Cluster Analysis.ipynb`` show social network graph based on Twitter usernames and their respective followers and retweets. *The scale of the node will be influenced by the a combination of the number of followers and the number of tweets they produce*.
+* ``WordCloud.ipynb`` presents a novelty visual representation of widely used words by ISIS.
+* ``Widely Used Languages.ipynb`` shows top 10 languages used in ISIS tweets.
+* ``Topic Model.ipynb`` is a rough topic model representing the topic of tweets.
 #### Associated Visualizations
 [Total tweets by ISIS terrorists](https://public.tableau.com/profile/prabodh.wankhede#!/vizhome/TweetsbyUserISIS/Sheet2)
 <br>
